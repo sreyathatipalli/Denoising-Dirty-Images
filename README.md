@@ -1,4 +1,4 @@
-# Denoising-Dirty-Images
+# Denoising-Noisy-Images
 This notebook uses a public dataset from kaggle.
 The dataset consists of images where each image consists of some text having some added noise.
 The task of the model is to reduce/remove the present noise in the images.
